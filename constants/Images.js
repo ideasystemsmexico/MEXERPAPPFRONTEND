@@ -11,6 +11,11 @@ const androidLogo = require("../assets/imgs/android.png");
 const serverLogo = require("../assets/imgs/servidor.png");
 const usernameLogo = require("../assets/imgs/username.png");
 const passwordLogo = require("../assets/imgs/password.png");
+const Proyectos = require("../assets/imgs/proyecto.png");
+const compras = require("../assets/imgs/compras.png");
+const ventas = require("../assets/imgs/ventas.png");
+const contratos = require("../assets/imgs/contratos.png");
+const empresas = require("../assets/imgs/empresas.png");
 // internet imgs
 
 const ProfilePicture = 'https://images.unsplash.com/photo-1492633423870-43d1cd2775eb?fit=crop&w=1650&q=80';
